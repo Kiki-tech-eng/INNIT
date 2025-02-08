@@ -1,0 +1,18 @@
+body {
+  background: hsl(212, 45%, 89%);
+}
+div {
+  text-align: center;
+  width: 20rem;
+  height: 90%;
+  margin: auto;
+  margin-top: 15vh;
+  padding: 20px 5px;
+  background: white;
+  border-radius: 10px;
+}
+img {
+  border-radius: 20px;
+  width: 75%;
+  margin: auto;
+}
